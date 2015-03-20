@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="index.xhtml" x="401" y="165" zoom="false"/>
+        <Node id="catalogue.jsp" x="142" y="139" zoom="true"/>
+        <Node id="panier.jsp" x="650" y="150" zoom="true"/>
+        <Node id="ficheclient.jsp" x="150" y="300" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>
